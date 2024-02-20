@@ -6,12 +6,7 @@
 荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
 大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
-大湾区卫视,http://124.222.142.65:5678/zhibo/index.php?id=dwqws
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
-大湾区卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
-广东珠江,http://120.234.220.107:7000/udp/239.20.0.64:3144
-广东珠江,http://120.234.220.107:7000/udp/239.20.0.63:3148
-广东珠江,http://player.200877926.top/169l/_17186/itouchgdm3u8.php?id=gdzj
+
 
 大湾区卫视,mitv://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
 
