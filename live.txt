@@ -4,12 +4,17 @@
 荔枝珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 广东珠江,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4
 珠江IPV6,http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503820240109152105406385
-珠江2,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=75c01dae46ec5c663c8f221b392245ed-Qa%2B%2FG8qJqZ4IdBDearAcBhEelrOQyZeAX8%2BfcT3QRuAI7bYwjAPILVkxADsT%2F6MlkKFQQ5%2B1I9s%2BlWWFIEI%2FrUfxokQzpLFSVsw4yDSh2gK2v%2B53oCqh2fp%2BmeYc6b3X59AQ6eDEdt412Wj%2FrVnuWAMIOUej0fb9CCwESlyHxG3HpwHx7pQ2q8PcvDilG2UW4ER46Ubn6OxtnP9iACKwx6fSgfBLchuMflTJDyzlK2QliMoqprQ8LFl3b0zMlkvGkxKrb3dAA1sKRMhTdF7w2axIdibXukLiD7OGWQx%2FPdn6K3jadRDpdINl6AEXdy%2BIpH65DjjEhi0HG5cXYAfSpX4MVUO3gRF9NCJ0tnW41S4lPmXBElhJAsjx7ypqZ2QC
+
 广东记录,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1711519837-0-0-cb2434acfc77b34759b014781e5e5099
 
 荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 大湾区荔枝,http://php.jdshipin.com:8880/chudian.php?id=nfws
 大湾区卫视,mitv://generationnexxxt.com:19806/587bc565d5a4413987fdce380a48a332
+大湾区卫v6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+广东珠江「IPV6」,http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503820240109152105406385
+
+大湾区卫视1,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
+广东珠江2,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 
 大湾区卫视,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_NANFANG/G_NANFANG.m3u8
 大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
